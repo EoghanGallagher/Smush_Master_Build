@@ -104,6 +104,10 @@
      <Compile Include="Assets\Scripts\SpawnManager\SpawnController.cs" />
      <Compile Include="Assets\Scripts\SpawnManager\Spawner.cs" />
      <Compile Include="Assets\Scripts\Tags.cs" />
+     <Compile Include="Assets\Scripts\Weapons\Grenade Launcher\AccurateLob.cs" />
+     <Compile Include="Assets\Scripts\Weapons\Grenade Launcher\Bomb.cs" />
+     <Compile Include="Assets\Scripts\Weapons\Grenade Launcher\GrenadeLauncher.cs" />
+     <Compile Include="Assets\Scripts\Weapons\Grenade Launcher\RayCastCollision.cs" />
      <None Include="Assets\Detonator\Resources\Detonator\Textures\HeatDistort.shader" />
      <None Include="Assets\LitJson\license.txt" />
      <None Include="Assets\Plugins\Android\res\values\strings.xml" />

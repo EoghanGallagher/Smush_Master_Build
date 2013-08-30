@@ -52,6 +52,7 @@
      <Compile Include="Assets\Plugins\OuyaSDK.cs" />
      <Compile Include="Assets\Plugins\PS2Controller.cs" />
      <Compile Include="Assets\Plugins\XBox360Controller.cs" />
+     <Compile Include="Assets\Plugins\iTween.cs" />
      <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <None Include="Assets\Detonator\Resources\Detonator\Textures\HeatDistort.shader" />
      <None Include="Assets\LitJson\license.txt" />

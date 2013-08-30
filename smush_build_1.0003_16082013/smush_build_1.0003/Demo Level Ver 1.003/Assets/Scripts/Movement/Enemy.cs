@@ -56,7 +56,7 @@ public class Enemy : MonoBehaviour {
 		 //Debug.Log( "Damage Called. Reduce health of " + transform.name + " by " + damageAmount );
 		 
 		
-	            Messenger.Broadcast<GameObject , Transform>( "SpawnExplosion", detonator, m_MyTransform );
+	           // Messenger.Broadcast<GameObject , Transform>( "SpawnExplosion", detonator, m_MyTransform );
 				
 				Messenger.Broadcast<int>( "ManageScore", scoreValue );
 				
@@ -102,6 +102,8 @@ public class Enemy : MonoBehaviour {
 		
 	}
 	
+	
+
 	
 	void OnTriggerEnter( Collider other )
 	{

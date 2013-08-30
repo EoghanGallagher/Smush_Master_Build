@@ -53,6 +53,8 @@ public class EffectManager : MonoBehaviour {
 		if( currentDetonator )
 		{
 			Instantiate ( currentDetonator, target.position, target.rotation );
+			
+			
 		}
 		else
 		{
