@@ -13,6 +13,7 @@ public class Tags : MonoBehaviour
 	public const string floor = "Floor";
 	public const string loot = "Loot";
 	public const string blade = "Blade";
+	public const string wall = "Wall";
 	
 	public const string test = "test";
 
