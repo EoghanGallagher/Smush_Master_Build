@@ -1,7 +1,7 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 24.07.2013 21:54:28
+# File Created: 15.08.2013 00:15:18
 
-newmtl 03___Default
+newmtl 07___Default
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -12,3 +12,5 @@ newmtl 03___Default
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
+	map_Ka U:\Game 2 - Smush Video\Level Design\Materials\masterTexture.psd
+	map_Kd U:\Game 2 - Smush Video\Level Design\Materials\masterTexture.psd
